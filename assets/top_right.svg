@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="444.03" height="349.25" viewBox="0 0 444.03 349.25">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.444" cy="0.579" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4890c4"/>
+      <stop offset="1" stop-color="#045fa0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.504" cy="0.647" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#80c290"/>
+      <stop offset="1" stop-color="#2ea44c"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_164" data-name="Group 164" transform="translate(-149.516 142.25)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M124.585,57.053c14.623-25.347,51.207-25.347,65.83,0l91.706,158.958C296.737,241.344,278.453,273,249.206,273H65.794c-29.247,0-47.53-31.656-32.915-56.989Z" transform="translate(215.5 -55.424) rotate(-16)" fill="url(#radial-gradient)"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M74.22,29.649a20,20,0,0,1,34.559,0l56.7,97.28A20,20,0,0,1,148.2,157H34.8a20,20,0,0,1-17.28-30.071Z" transform="matrix(0.259, -0.966, 0.966, 0.259, 149.516, 53.514)" fill="url(#radial-gradient-2)"/>
+  </g>
+</svg>
